@@ -48,7 +48,7 @@ table {
 }
 
 /* Set every element's box-sizing to border-box */
-* {
+ * {
     box-sizing: border-box;
 }
 
@@ -64,3 +64,17 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+*{
+	
+	border: 1px solid rgb(15, 13, 13);
+}
+li {
+	display: inline;
+	margin: 3%;
+	
+}
+
+.topbar {
+	display: inline;
+	
+}
